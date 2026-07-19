@@ -17,6 +17,4 @@ A 4:1 multiplexer selects one of four input signals (`i0`, `i1`, `i2`, or `i3`) 
 | 10  | i2 |
 | 11  | i3 |
 
-## Simulation Waveform
 
-![4x1 Multiplexer Waveform](mux4x1_waveform.png)
