@@ -6,7 +6,7 @@ A 2:4 decoder converts a 2-bit binary input into one of four active-high output 
 
 - `decoder2x4.v` – Verilog design
 - `tb_decoder2x4.v` – Testbench
-- `decoder2x4_waveform.png` – Simulation waveform
+- `decoder2x4.png` – Simulation waveform
 
 ## Truth Table
 
