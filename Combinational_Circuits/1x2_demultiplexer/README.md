@@ -4,8 +4,8 @@ A 1:2 demultiplexer routes one input (`d`) to one of two outputs (`y0` or `y1`) 
 
 ## Files
 
-- `demux1x2.v` – Verilog design
-- `tb_demux1x2.v` – Testbench
+- `1x2_demux.v` – Verilog design
+- `tb_1x2_demux.v` – Testbench
 - `demux1x2_waveform.png` – Simulation waveform
 
 ## Truth Table
