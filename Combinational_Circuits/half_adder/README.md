@@ -6,7 +6,7 @@ A Half Adder is a combinational circuit that adds two 1-bit binary inputs and pr
 
 - `half_adder.v` – Verilog design
 - `tb_half_adder.v` – Testbench
-- `half_adder_waveform.png` – Simulation waveform
+- `half_adder.png` – Simulation waveform
 
 ## Truth Table
 
