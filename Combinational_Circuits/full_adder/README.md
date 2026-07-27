@@ -6,7 +6,7 @@ A Full Adder is a combinational circuit that adds three 1-bit binary inputs (`A`
 
 - `full_adder.v` – Verilog design
 - `tb_full_adder.v` – Testbench
-- `full_adder_waveform.png` – Simulation waveform
+- `full_adder.png` – Simulation waveform
 
 ## Truth Table
 
