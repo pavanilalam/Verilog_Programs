@@ -12,5 +12,3 @@ This folder contains Verilog HDL implementations of basic combinational logic ci
 - 4:2 Priority Encoder
 - Half Adder
 - Full Adder
-- 4-bit Ripple Carry Adder
-- 4-bit Comparator
